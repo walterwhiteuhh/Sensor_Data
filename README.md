@@ -2,4 +2,6 @@
 
 ### Under construction
 
-- More details following tomorrow
+- Collecting Temp/Humidity Values from DHT22-Sensor
+- Store Values in Database
+- Design a Front-End Application for Sensor Data
